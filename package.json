@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "html-pdf": "^3.0.1",
+    "mongoose": "^7.0.3",
+    "nodemailer": "^7.0.4",
+    "puppeteer": "^24.11.2",
+    "razorpay": "^2.9.6"
+  }
+}
